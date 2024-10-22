@@ -47,7 +47,7 @@ export default StyleSheet.create({
         marginVertical: 10,
       },
       selectedContainer: {
-        marginTop: 20,
+        marginTop: 5,
       },
       selectedTitle: {
         fontSize: 18,

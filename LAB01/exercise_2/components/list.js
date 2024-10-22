@@ -61,7 +61,6 @@ const ListView = () => {
   );
 
   return (
-    <ScrollView>
         <View style={styles.container}>
         <Text style={styles.title}>Workouts</Text>
         <ImageBackground
@@ -100,7 +99,6 @@ const ListView = () => {
             </Text>
         </View>
         </View>
-    </ScrollView>
 
   );
 };
