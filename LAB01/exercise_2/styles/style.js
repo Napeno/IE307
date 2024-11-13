@@ -6,7 +6,7 @@ export default StyleSheet.create({
         padding: 10,
       },
       title: {
-        fontSize: 24,
+        fontSize: 22,
         fontWeight: 'bold',
         marginVertical: 10,
       },

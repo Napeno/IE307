@@ -62,7 +62,7 @@ const ListView = () => {
 
   return (
         <View style={styles.container}>
-        <Text style={styles.title}>Workouts</Text>
+        <Text style={styles.title}>Workouts 21522029_Nguyễn Sơn Hà</Text>
         <ImageBackground
             source={{ uri: 'https://www.mensjournal.com/.image/t_share/MTk2MTM3MzY2MDc0NjMxNjg1/fitness-model-showing-off-abs-and-arms.jpg' }}
             style={styles.imageBackground}
