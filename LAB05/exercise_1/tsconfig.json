@@ -1,0 +1,12 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-native", // Enables JSX in React Native projects
+    "allowJs": true,      // Allows JavaScript files in your project
+    "esModuleInterop": true, // Enables ES module interop
+    "moduleResolution": "node", // Resolves modules in node_modules
+    "skipLibCheck": true,  // Skips type checking for node_modules
+    "isolatedModules": true // Ensures each file is treated as a separate module
+  }
+}
